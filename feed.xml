@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-06-05T03:51:30+08:00</updated>
+  <updated>2023-06-05T03:57:05+08:00</updated>
   <author>
     <name>Carol Morelli</name>
     <uri>http://localhost:4000/</uri>
@@ -65,8 +65,8 @@ Página do Hotel
 
   
   <entry>
-    <title>Hotel</title>
-    <link href="http://localhost:4000/posts/compras/" rel="alternate" type="text/html" title="Hotel" />
+    <title>Compras</title>
+    <link href="http://localhost:4000/posts/compras/" rel="alternate" type="text/html" title="Compras" />
     <published>2023-06-02T20:55:00+08:00</published>
   
     <updated>2023-06-02T20:55:00+08:00</updated>
@@ -79,7 +79,9 @@ Página do Hotel
 
   
     
-    <category term="hotel" />
+    <category term="Passeios" />
+    
+    <category term="Compras" />
     
   
 
