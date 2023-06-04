@@ -4,16 +4,16 @@
   <id>http://localhost:4000/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-06-03T09:46:54+08:00</updated>
+  <updated>2023-06-05T03:51:30+08:00</updated>
   <author>
-    <name>your_full_name</name>
+    <name>Carol Morelli</name>
     <uri>http://localhost:4000/</uri>
   </author>
   <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
-  <rights> © 2023 your_full_name </rights>
+  <rights> © 2023 Carol Morelli </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
@@ -66,13 +66,13 @@ Página do Hotel
   
   <entry>
     <title>Hotel</title>
-    <link href="http://localhost:4000/posts/animal-king/" rel="alternate" type="text/html" title="Hotel" />
+    <link href="http://localhost:4000/posts/compras/" rel="alternate" type="text/html" title="Hotel" />
     <published>2023-06-02T20:55:00+08:00</published>
   
     <updated>2023-06-02T20:55:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/animal-king/</id>
-    <content src="http://localhost:4000/posts/animal-king/" />
+    <id>http://localhost:4000/posts/compras/</id>
+    <content src="http://localhost:4000/posts/compras/" />
     <author>
       <name>carol</name>
     </author>
@@ -91,18 +91,23 @@ Página do Hotel
 
 
 
-      Wyndham Garden Lake Buena Vista Disney Springs Resort Area
+      Locais para realizar compras
 
-Endereço hotel
+Outlet Premium Vineland
+Segunda e terça das 10h às 23h e de quarta a domingo das 9h às 23h
 
-1850b Hotel Plaza Blvd, Lake Buena Vista, FL 32830, Estados Unidos
+8200 Vineland Avenue, Orlando, Flórida, EUA
 
-Check-in: Segunda-feira, 3 julho - 16:00
+OBS: Cheio e com isso, pode ter estoques zerados
 
-Check-out: Terça-feira, 11 julho - 11:00
+Lojas Legais:
 
-Página do Hotel
+Outlet Lake Buena Vista Factory Stores
+Segunda a sábado, das 10h às 21h30, e domingo, das 10h às 19h.
 
+15657 S Apopka Vineland Rd, Orlando, Flórida, EUA
+
+OBS: Praça ...
     </summary>
   
 
@@ -110,23 +115,23 @@ Página do Hotel
 
   
   <entry>
-    <title>Enable Google Page Views</title>
-    <link href="http://localhost:4000/posts/enable-google-pv/" rel="alternate" type="text/html" title="Enable Google Page Views" />
-    <published>2021-01-04T07:32:00+08:00</published>
+    <title>Animal</title>
+    <link href="http://localhost:4000/posts/animal/" rel="alternate" type="text/html" title="Animal" />
+    <published>2023-05-31T20:55:00+08:00</published>
   
-    <updated>2021-01-04T07:32:00+08:00</updated>
+    <updated>2023-05-31T20:55:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/enable-google-pv/</id>
-    <content src="http://localhost:4000/posts/enable-google-pv/" />
+    <id>http://localhost:4000/posts/animal/</id>
+    <content src="http://localhost:4000/posts/animal/" />
     <author>
-      <name>sille_bille</name>
+      <name>carol</name>
     </author>
 
   
     
-    <category term="Blogging" />
+    <category term="Passeios" />
     
-    <category term="Tutorial" />
+    <category term="Parques" />
     
   
 
@@ -138,11 +143,8 @@ Página do Hotel
 
 
 
-      
-  The content of this post applies only to Universal Analytics property (UA), not Google Analytics 4 (GA 4). In addition, since UA is about to be deprecated on Jul 1, 2023, the Page Views feature of Chirpy will also be deprecated at that time.
+      Vc entrou na pagina animal
 
-
-This post is to enable Page Views on the Chirpy theme based blog that you just built. This requires technical knowledge and it’s recommended to keep t...
     </summary>
   
 
@@ -150,23 +152,23 @@ This post is to enable Page Views on the Chirpy theme based blog that you just b
 
   
   <entry>
-    <title>Customize the Favicon</title>
-    <link href="http://localhost:4000/posts/customize-the-favicon/" rel="alternate" type="text/html" title="Customize the Favicon" />
-    <published>2019-08-11T00:34:00+08:00</published>
+    <title>Parques</title>
+    <link href="http://localhost:4000/posts/parques/" rel="alternate" type="text/html" title="Parques" />
+    <published>2019-08-08T11:33:00+08:00</published>
   
-    <updated>2019-08-11T00:34:00+08:00</updated>
+    <updated>2019-08-08T11:33:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/customize-the-favicon/</id>
-    <content src="http://localhost:4000/posts/customize-the-favicon/" />
+    <id>http://localhost:4000/posts/parques/</id>
+    <content src="http://localhost:4000/posts/parques/" />
     <author>
-      <name>cotes</name>
+      <name>Carol</name>
     </author>
 
   
     
-    <category term="Blogging" />
+    <category term="Passeios" />
     
-    <category term="Tutorial" />
+    <category term="Parques" />
     
   
 
@@ -178,59 +180,13 @@ This post is to enable Page Views on the Chirpy theme based blog that you just b
 
 
 
-      The favicons of Chirpy are placed in the directory assets/img/favicons/. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
+      Animal kingdom
+ Epcot
+ Magic kingdom
+ Hollywood Studios
+ Universal Studio
+ Sea World
 
-Generate the favicon
-
-Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool Real Favicon Generator and click the button Select your Favicon image ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Getting Started</title>
-    <link href="http://localhost:4000/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
-    <published>2019-08-09T20:55:00+08:00</published>
-  
-    <updated>2019-08-09T20:55:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/getting-started/</id>
-    <content src="http://localhost:4000/posts/getting-started/" />
-    <author>
-      <name>cotes</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Tutorial" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Prerequisites
-
-Follow the instructions in the Jekyll Docs to complete the installation of the basic environment. Git also needs to be installed.
-
-Installation
-
-Creating a New Site
-
-There are two ways to create a new repository for this theme:
-
-
-  Using the Chirpy Starter - Easy to upgrade, isolates irrelevant project files so you can focus on writing.
-  GitHub Fork - Convenient for custom devel...
     </summary>
   
 
