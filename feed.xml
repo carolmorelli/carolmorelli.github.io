@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-06-05T03:57:05+08:00</updated>
+  <updated>2023-06-06T22:46:27+08:00</updated>
   <author>
     <name>Carol Morelli</name>
     <uri>http://localhost:4000/</uri>
@@ -126,7 +126,7 @@ OBS: Praça ...
     <id>http://localhost:4000/posts/animal/</id>
     <content src="http://localhost:4000/posts/animal/" />
     <author>
-      <name>carol</name>
+      <name>Carol</name>
     </author>
 
   
@@ -145,8 +145,39 @@ OBS: Praça ...
 
 
 
-      Vc entrou na pagina animal
+      Contemple a magia da natureza com animais raros animais e entretenimento selvagem
 
+Página do Parque
+
+Atrações
+
+
+  
+    
+      Atração
+      Altura (cm)
+      Early Entry(7:30 até 8:00)
+    
+  
+  
+    
+      Abutres
+      Livre
+       
+    
+    
+      Affection Section
+      Livre
+       
+    
+    
+      Avatar Flight of Passage
+      112
+      Sim
+    
+    
+      Chakranadi (ver horario)
+      ...
     </summary>
   
 
