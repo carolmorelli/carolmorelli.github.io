@@ -28,6 +28,7 @@ const resource = [
         '/assets/img/favicons/android-chrome-512x512.png',
         '/assets/img/favicons/animal_map.png',
         '/assets/img/favicons/apple-touch-icon.png',
+        '/assets/img/favicons/dinoland_mapa.PNG',
         '/assets/img/favicons/favicon-16x16.png',
         '/assets/img/favicons/favicon-32x32.png',
         '/assets/img/favicons/favicon.ico',
