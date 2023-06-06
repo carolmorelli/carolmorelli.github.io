@@ -23,8 +23,10 @@ const resource = [
     /* --- Favicons & compressed JS --- */
     
     
+        '/assets/img/favicons/OASIS-map.jpg',
         '/assets/img/favicons/android-chrome-192x192.png',
         '/assets/img/favicons/android-chrome-512x512.png',
+        '/assets/img/favicons/animal_map.png',
         '/assets/img/favicons/apple-touch-icon.png',
         '/assets/img/favicons/favicon-16x16.png',
         '/assets/img/favicons/favicon-32x32.png',
