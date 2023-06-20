@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Disney</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-06-20T03:22:03+08:00</updated>
+  <updated>2023-06-20T08:14:00+08:00</updated>
   <author>
     <name>Carol Morelli</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,65 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Magic</title>
+    <link href="http://localhost:4000/posts/magic/" rel="alternate" type="text/html" title="Magic" />
+    <published>2023-06-18T20:55:00+08:00</published>
+  
+    <updated>2023-06-18T20:55:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/magic/</id>
+    <content src="http://localhost:4000/posts/magic/" />
+    <author>
+      <name>Carol</name>
+    </author>
+
+  
+    
+    <category term="Passeios" />
+    
+    <category term="Parques" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Entre em uma terra onde a fantasia reina
+
+Página do Parque
+
+Mapa
+
+mapa
+
+Atrações
+
+EARLY ENTRAY (8:30 até 9:00)
+
+  “it’s a small world”
+  Astro Orbiter
+  Buzz Lightyear’s Space Ranger Spin
+  Dumbo the Flying Elephant
+  Mad Tea Party
+  Mickey’s PhilharMagic
+  Peter Pan’s Flight
+  Prince Charming Regal Carrousel
+  Seven Dwarfs Mine Train
+  Space Mountain
+  The Barnstormer
+  As Aventuras do Ursinho...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -224,7 +283,7 @@ Animal Kingdom
 
 
 
-      Contemple a magia da natureza com animais raros animais e entretenimento selvagem
+      Celebre as histórias que conectam pessoas e culturas ao redor do mundo.
 
 Página do Parque
 
@@ -242,70 +301,7 @@ EARLY ENTRAY (8:30 até 9:00)
   Remy’s Ratatouille Adventure (sempre com fila grande)
   Soarin’ Around the World (sempre com fila grande)
   Spaceship Earth
-  Test Track (sempre co...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Animal</title>
-    <link href="http://localhost:4000/posts/animal/" rel="alternate" type="text/html" title="Animal" />
-    <published>2023-05-31T20:55:00+08:00</published>
-  
-    <updated>2023-05-31T20:55:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/animal/</id>
-    <content src="http://localhost:4000/posts/animal/" />
-    <author>
-      <name>Carol</name>
-    </author>
-
-  
-    
-    <category term="Passeios" />
-    
-    <category term="Parques" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Contemple a magia da natureza com animais raros animais e entretenimento selvagem
-
-Página do Parque
-
-Mapa
-
-mapa
-
-Atrações
-
-EARLY ENTRAY (7:30 até 8:00)
-
-  Avatar Flight of Passage
-  Dinosaur
-  Expedition Everest - Legend of the Forbidden Mountain
-  It’s Tough to be a Bug
-  Tricera Top Spin
-  Na’vi River Journey
-
-
-O Parque por Regiões
-
-OASIS
-Oasis
-
-Destaques: Babirusa, Colhereiro, Tamanduá.
-
-1 ....
+  Test Track (sempre com fila gra...
     </summary>
   
 
