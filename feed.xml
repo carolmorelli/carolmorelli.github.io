@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Disney</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-06-28T21:20:17+08:00</updated>
+  <updated>2023-07-02T20:28:36+08:00</updated>
   <author>
     <name>Carol Morelli</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,65 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Hollywood Studios</title>
+    <link href="http://localhost:4000/posts/hollywood/" rel="alternate" type="text/html" title="Hollywood Studios" />
+    <published>2023-06-18T20:55:00+08:00</published>
+  
+    <updated>2023-06-18T20:55:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/hollywood/</id>
+    <content src="http://localhost:4000/posts/hollywood/" />
+    <author>
+      <name>Carol</name>
+    </author>
+
+  
+    
+    <category term="Passeios" />
+    
+    <category term="Parques" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Viva sua maior aventra
+
+Página do Parque
+
+Mapa
+
+mapa
+
+Atrações
+
+EARLY ENTRAY (8:00 até 8:30)
+
+  Alien Swirling Saucers
+  Mickey &amp;amp; Minnie’s Runaway Railway
+  Millennium Falcon: Smugglers Run
+  Rock ‘n’ Roller Coaster Starring Aerosmith
+  Slinky Dog Dash
+  Star Tours – The Adventures Continue
+  Star Wars: Rise of the Resistance
+  The Twilight Zone Tower of Terror ™
+  Toy Story Mania!
+
+
+ALUGUE...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -214,83 +273,6 @@ Onde Comer
 Gorjeta
 Dar gorjeta para os serviços prestados é uma prática muito comum nos Estados Unidos. A gorjeta é dada tanto aos garçons dos restaurantes quanto a taxistas ou funcionários do hotel que ajudam com as malas. Paga-se, normalmente, entre 15% e 20% do valor total do serviço em gorjeta. 
 Quando receber a conta de um restaurante, provavelmente o recibo sinalizará o v...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Parques</title>
-    <link href="http://localhost:4000/posts/parques/" rel="alternate" type="text/html" title="Parques" />
-    <published>2023-06-01T11:33:00+08:00</published>
-  
-    <updated>2023-06-01T11:33:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/parques/</id>
-    <content src="http://localhost:4000/posts/parques/" />
-    <author>
-      <name>Carol</name>
-    </author>
-
-  
-    
-    <category term="Passeios" />
-    
-    <category term="Parques" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  
-    
-      Ter (04/07)
-      Qua (05/07)
-      Qui (06/07)
-      Sex (07/07)
-    
-  
-  
-    
-      Magic Kingdom
-      Animal Kingdom
-      Epcot
-      Hollywood Studios
-    
-  
-
-
-
-  
-    
-      Sab (08/07)
-      Dom (09/07)
-      Seg (10/07)
-      Ter (11/07)
-    
-  
-  
-    
-      Universal
-      Sea World
-      Compras
-      Compras
-    
-  
-
-
-Animal Kingdom
- Epcot
- Magic Kingdom
- Hollywoo...
     </summary>
   
 
