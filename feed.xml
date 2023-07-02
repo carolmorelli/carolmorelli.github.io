@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Disney</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-06-27T02:03:23+08:00</updated>
+  <updated>2023-06-28T21:20:17+08:00</updated>
   <author>
     <name>Carol Morelli</name>
     <uri>http://localhost:4000/</uri>
@@ -51,6 +51,7 @@
       Entre em uma terra onde a fantasia reina
 
 Página do Parque
+Como Chegar
 
 Mapa
 
@@ -71,7 +72,7 @@ EARLY ENTRAY (8:30 até 9:00)
   Seven Dwarfs Mine Train
   Space Mountain
   The Barnstormer
-  As Aventuras do Ursinho...
+  As Aventura...
     </summary>
   
 
@@ -178,6 +179,48 @@ Segunda a sábado, das 10h às 21h30, e domingo, das 10h às 19h.
 
   
   <entry>
+    <title>Dicas</title>
+    <link href="http://localhost:4000/posts/dicas/" rel="alternate" type="text/html" title="Dicas" />
+    <published>2023-06-01T11:33:00+08:00</published>
+  
+    <updated>2023-06-01T11:33:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/dicas/</id>
+    <content src="http://localhost:4000/posts/dicas/" />
+    <author>
+      <name>Carol</name>
+    </author>
+
+  
+    
+    <category term="Passeios" />
+    
+    <category term="Parques" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Sobre Pedágios
+
+Onde Comer
+
+Gorjeta
+Dar gorjeta para os serviços prestados é uma prática muito comum nos Estados Unidos. A gorjeta é dada tanto aos garçons dos restaurantes quanto a taxistas ou funcionários do hotel que ajudam com as malas. Paga-se, normalmente, entre 15% e 20% do valor total do serviço em gorjeta. 
+Quando receber a conta de um restaurante, provavelmente o recibo sinalizará o v...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Parques</title>
     <link href="http://localhost:4000/posts/parques/" rel="alternate" type="text/html" title="Parques" />
     <published>2023-06-01T11:33:00+08:00</published>
@@ -248,60 +291,6 @@ Animal Kingdom
  Epcot
  Magic Kingdom
  Hollywoo...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Epcot</title>
-    <link href="http://localhost:4000/posts/epcot/" rel="alternate" type="text/html" title="Epcot" />
-    <published>2023-05-31T20:55:00+08:00</published>
-  
-    <updated>2023-05-31T20:55:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/epcot/</id>
-    <content src="http://localhost:4000/posts/epcot/" />
-    <author>
-      <name>Carol</name>
-    </author>
-
-  
-    
-    <category term="Passeios" />
-    
-    <category term="Parques" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Celebre as histórias que conectam pessoas e culturas ao redor do mundo.
-
-Página do Parque
-
-Mapa
-
-mapa
-
-Atrações
-
-EARLY ENTRAY (8:30 até 9:00)
-
-  Beauty and The Beast Sing-Along
-  Frozen Ever After (sempre com fila grande)
-  Missão: SPACE
-  Remy’s Ratatouille Adventure (sempre com fila grande)
-  Soarin’ Around the World (sempre com fila grande)
-  Spaceship Earth
-  Test Track (sempre com fila gra...
     </summary>
   
 
